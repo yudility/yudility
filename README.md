@@ -1,9 +1,10 @@
-###👋 Yudility : Yujin
+
+### ✨ YUJIN PARK 
 
 | [![Github Stats](https://github-readme-stats.vercel.app/api?username=yudility&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudility&amp;layout=compact&amp;theme=vue-dark&amp;) |
 |:---:|:---:|
 
-
+###  
 <!--
 **yudility/yudility** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
