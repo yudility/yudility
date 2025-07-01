@@ -69,7 +69,7 @@
 - 교내 시설을 노드, 도보 경로를 엣지로 하는 그래프 구조 설계
 - 실제 사용 가능한 수준의 MVP 서비스 구현
 
-### 🎮 [Don't Starve Together 커스텀 캐릭터](https://steamcommunity.com/sharedfiles/filedetails/?id=1480535263)
+### 🎮 [Daho - Don't Starve Together 커스텀 캐릭터](https://steamcommunity.com/sharedfiles/filedetails/?id=1480535263)
 `Lua` `Game Modding`
 
 **개발 지식 없이 독학으로 게임 모딩 시스템 구현**
