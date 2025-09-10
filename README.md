@@ -7,7 +7,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/📧%20yudility@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudility@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://angry-mile-4b9.notion.site/Park-Yujin-222a788b97e080f28993f1802f82a5a4)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://yudility.notion.site/?source=copy_link)
 
 
 </div>
